@@ -1,4 +1,5 @@
 file:///etc/
 
+wwww.baidu.com
 
 file:///d:/
