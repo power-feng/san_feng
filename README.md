@@ -11,11 +11,11 @@ www.baidu.com
 
 https://www.baidu.com
 
-file:///etc
+File:///etc
 
-file:%2F%2F%2Fetc%2F
+File:%2F%2F%2Fetc%2F
 
 
-file:///etc/
+File:///etc/
 
 
